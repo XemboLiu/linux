@@ -6,5 +6,6 @@
 #define cpu_has_divec         0
 #define cpu_has_mcheck        0
 #define cpu_has_ejtag         0
+#define cpu_has_fpu           1
 
 #endif
